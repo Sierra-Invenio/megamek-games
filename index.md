@@ -18,7 +18,7 @@ added, removed, and updated.
 |Server Name|Port Number|Version|Game Size|Provided By|
 |:------|:-----:|:--------:|:--:|-------:|
 |||*Milestone*|||
-|sldf.megamek.games           |2346|0.49.19.1 (Milestone)|768M - Companies    |MegaMek Team|
+|sldf.megamek.games           |2346|0.50.06 (Milestone)|768M - Companies    |MegaMek Team|
 |ralias-raiders.megamek.games |2830|0.50.06 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 |ralias-raiders.megamek.games |2866|0.50.06 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
 |ralias-raiders.megamek.games |3028|0.50.06 (Milestone)|2048M - Regimental? |[RR] Sierra Invenio|
@@ -35,13 +35,12 @@ added, removed, and updated.
 |ralias-raiders.megamek.games |3151|0.50.06 (Milestone*)|2048M - Regimental? |[RR] Sierra Invenio|
 ||||||
 |||*Development*|||
-|hells-horses.megamek.games   |2346|0.50.05|768M - Companies    |MegaMek Team|
-|blackhearts.megamek.games    |2346|0.50.05|768M - Companies    |MegaMek Team|
-|wolverines.megamek.games     |2346|0.50.05|768M - Companies    |MegaMek Team|
-|houseofmors.megamek.games    |2346|0.50.03|768M - Companies    |Mors2657|
-|houseofmors2.megamek.games   |2346|0.50.03|768M - Companies    |Mors2657|
+|hells-horses.megamek.games   |2346|0.50.06|768M - Companies    |MegaMek Team|
+|blackhearts.megamek.games    |2346|0.50.06|768M - Companies    |MegaMek Team|
+|wolverines.megamek.games     |2346|0.50.06|768M - Companies    |MegaMek Team|
+
 ||||||
-|||*Deprecatied Stable Servers*|||
+|||*Deprecatied Servers*|||
 |magistracy-of-canopus.megamek.games |2346|0.48.0 (Stable)|512M - Companies    |Delra|
 |megamek.lynxx-it.de                 |2346|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
 |megamek.lynxx-it.de                 |2348|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
@@ -54,7 +53,8 @@ added, removed, and updated.
 |megamek.lynxx-it.de                 |2362|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
 |megamek.lynxx-it.de                 |2364|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
 |megamek.lynxx-it.de                 |2366|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
-
+|houseofmors.megamek.games    |2346|0.50.03|768M - Companies    |Mors2657|
+|houseofmors2.megamek.games   |2346|0.50.03|768M - Companies    |Mors2657|
 ## MekWars Servers
 
 These servers are related as they use a customized version of the MegaMek client to

@@ -108,7 +108,7 @@ website. Navigate there in your favorite browser and copy the Linux URL from
 the downloads page. You can choose either the MekHQ package OR the MegaMek
 one. Both will have the same files for a dedicated server. We recommend
 using the MekHQ package to avoid seeing the `client/server hash mismatch`
-error in the logs. So long as the VERSION (ie: 0.49.19.1) matches on both, there
+error in the logs. So long as the VERSION (ie: 0.50.06) matches on both, there
 should be no issues.
 
 To get it onto the server, we're going to use `wget` to have it download the
@@ -131,11 +131,11 @@ ls -lha
 >
 > This will return a listing of files and folders in the current directory.
 
-For MekHQ 0.49.19.1:
+For MekHQ 0.50.06:
 
 ```bash
 # step 5
-tar -zxf mekhq-0.49.19.1.tar.gz
+tar -zxf mekhq-0.50.06.tar.gz
 ```
 
 To better understand what's going on, we are telling the `tar` command to
@@ -161,11 +161,11 @@ can stop the running instance, remove the old link, make a new one, and start
 it up again without having to run any privileged commands or tell the system
 something has changed. It'll `just work`.
 
-Again, using MekHQ 0.49.19.1:
+Again, using MekHQ 0.50.06:
 
 ```bash
 # step 6
-ln -s mekhq-0.49.19.1 stable
+ln -s mekhq-0.50.06 stable
 ```
 
 This will create a link from the extracted location to a folder named `stable`

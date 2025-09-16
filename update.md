@@ -54,11 +54,11 @@ ls -lha
 >
 > This will return a listing of files and folders in the current directory.
 
-For MekHQ 0.49.19.1:
+For MekHQ 0.50.06:
 
 ```bash
 # step 3
-tar -zxf mekhq-0.49.19.1.tar.gz
+tar -zxf mekhq-0.50.06.tar.gz
 ```
 
 To better understand what's going on, we are telling the `tar` command to
@@ -87,7 +87,7 @@ installation) then link the new version up with
 ```bash
 # step 5
 rm stable
-ln -s mekhq-0.49.19.1 stable
+ln -s mekhq-0.50.06 stable
 ```
 
 ## Start the new version

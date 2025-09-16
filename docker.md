@@ -163,6 +163,29 @@ docker run -d --restart unless-stopped -p 2346:2346 --name megamek tapenvyus/meg
 docker system prune --volumes -f
 ```
 
+## Custom User Data on Docker
+
+If you desire to include customs data with your Docker container, it's quite easy and requires a minor adjustment to the above two
+commands (initial start and updating images).
+
+First, create a folder to store your custom data then change
+
+```bash
+docker run -d --restart unless-stopped -p 2346:2346 --name megamek tapenvyus/megamek:milestone
+```
+
+to be
+
+```bash
+docker run -d --restart unless-stopped -p 2346:2346 -v <path to userdata folder>:/app/userdata --name megamek tapenvyus/megamek:milestone
+```
+
+So if you're in your users home folder and created a `customs` directory to store maps, meks, etc. in, the above command would be:
+
+```bash
+docker run -d --restart unless-stopped -p 2346:2346 -v ~/customs:/app/userdata --name megamek tapenvyus/megamek:milestone
+```
+
 Congratulations! You have your own server setup now using the stock MegaMek
 package! You can get to it using the IP Address in the control panel using the
 default port of 2346.

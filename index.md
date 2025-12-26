@@ -55,15 +55,6 @@ List will be updated as servers are added, removed, and updated.
 |houseofmors.megamek.games    |2346|0.50.03|768M - Companies    |Mors2657|
 |houseofmors2.megamek.games   |2346|0.50.03|768M - Companies    |Mors2657|
 
-## MekWars Servers
-
-These servers are related as they use a customized version of the MegaMek client to run an ongoing campaign. These
-servers will require the custom client for your use.
-
-|Server Name|Port Number|Faction|Name|
-|:----|:-----:|:-----|:------|
-|mekwars.mekcity.com|2346|Steiner|MekWars @ MekCity.com Project|
-
 ## Scheduled Server Restarts
 
 Some of the servers have scheduled restarts of the MegaMek client to prevent memory corruption issues as well as to

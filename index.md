@@ -30,9 +30,9 @@ List will be updated as servers are added, removed, and updated.
 
 ||||||
 |||*Development*|||
-|hells-horses.megamek.games   |2346|0.50.06|768M - Companies    |MegaMek Team|
-|blackhearts.megamek.games    |2346|0.50.06|768M - Companies    |MegaMek Team|
-|wolverines.megamek.games     |2346|0.50.06|768M - Companies    |MegaMek Team|
+|hells-horses.megamek.games   |----|OFFLINE|768M - Companies    |MegaMek Team|
+|blackhearts.megamek.games    |2346|0.50.11|768M - Companies    |MegaMek Team|
+|wolverines.megamek.games     |2346|0.50.11|768M - Companies    |MegaMek Team|
 |ralias-raiders.megamek.games |2823|0.50.10|2048M - Regimental? |[RR] Sierra Invenio|
 |ralias-raiders.megamek.games |3049|0.50.10|2048M - Regimental? |[RR] Sierra Invenio|
 |ralias-raiders.megamek.games |3057|0.50.10|2048M - Regimental? |[RR] Sierra Invenio|

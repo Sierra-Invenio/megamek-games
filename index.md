@@ -40,7 +40,7 @@ List will be updated as servers are added, removed, and updated.
 |ralias-raiders.megamek.games |3151|0.50.12|2048M - Regimental? |[RR] Sierra Invenio|
 
 ||||||
-|||*Deprecatied Servers*|||
+|||*Deprecated Servers*|||
 |magistracy-of-canopus.megamek.games |2346|0.48.0 (Stable)|512M - Companies    |Delra|
 |megamek.lynxx-it.de                 |2346|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
 |megamek.lynxx-it.de                 |2348|0.48.0 (Stable)|Companies|Hutti (LynX-IT)|
